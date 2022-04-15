@@ -68,6 +68,7 @@ class ProductItem {
 </div>`
     }
 }
+     
 
 
 let list = new ProductList();
